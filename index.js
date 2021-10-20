@@ -57,7 +57,7 @@ function BgColor() {
     c.style.color="white";
     d.style.color="white";
     e.style.color="white";
-    f.style.display="block";
+    f.style.display="flex";
     element.style.backgroundColor="black";
 
 }
