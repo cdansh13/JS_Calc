@@ -40,8 +40,8 @@ function div(){
 } 
 function BgColor() {
     // var element=document.getElementById("cont");
-    let d = document.getElementById("cont").className="myNewBody";
-    document.getElementsByClassName("form-label");
+    let d = document.getElementsByClassName("form-label");
+    
     document.getElementById("btn").className = "btn btn-outline-primary btnC";
     document.getElementById("btn1").className = "none";
     document.getElementById("btn2").className = "btn btn-outline-primary mx-5";
