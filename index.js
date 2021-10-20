@@ -40,7 +40,8 @@ function div(){
 } 
 function BgColor() {
     // var element=document.getElementById("cont");
-    let d = document.getElementsByClassName("form-label");
+    let d = document.getElementById("fid1");
+    let e = document.getElementById("fid2");
     
     document.getElementById("btn").className = "btn btn-outline-primary btnC";
     document.getElementById("btn1").className = "none";
@@ -54,5 +55,6 @@ function BgColor() {
     b.style.color="white";
     c.style.color="white";
     d.style.color="white";
+    e.style.color="white";
 
 }
