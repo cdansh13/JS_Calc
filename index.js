@@ -40,7 +40,8 @@ function div(){
 } 
 function BgColor() {
     // var element=document.getElementById("cont");
-    document.getElementById("cont").className="myNewBody";
+    let d = document.getElementById("cont").className="myNewBody";
+    document.getElementsByClassName("form-label");
     document.getElementById("btn").className = "btn btn-outline-primary btnC";
     document.getElementById("btn1").className = "none";
     document.getElementById("btn2").className = "btn btn-outline-primary mx-5";
@@ -52,5 +53,6 @@ function BgColor() {
     a.style.color="white";
     b.style.color="white";
     c.style.color="white";
+    d.style.color="white";
 
 }
