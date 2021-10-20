@@ -11,17 +11,6 @@
     background-color: white;
     color: black;
 }
-/* .btn{
-    margin-top: 20px;
-    margin-left: 560px;
-    height: 8vh;
-    font-size: 3vh;
-    width: 12vw;
-}
-.btn:hover{
-    color: black;
-    background-color: black;
-} */
 #out::before{
     content: "The Output: ";
 }
