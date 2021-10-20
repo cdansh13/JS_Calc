@@ -1,0 +1,46 @@
+.heading{
+    color: black;
+    text-align: center;
+    font-style: unset;
+}
+.inp{
+    margin-left: 450px;
+    height: 6vh;
+    width: 30vw;
+    font-size: 3vh;
+    background-color: white;
+    color: black;
+}
+/* .btn{
+    margin-top: 20px;
+    margin-left: 560px;
+    height: 8vh;
+    font-size: 3vh;
+    width: 12vw;
+}
+.btn:hover{
+    color: black;
+    background-color: black;
+} */
+#out::before{
+    content: "The Output: ";
+}
+.myNewBody{
+    /* display: none; */
+    height:100vh;
+    background-color: black; 
+}
+.cont{
+    height:100vh;
+    background-color: white;
+}
+.btnC{
+    margin-left: 250px;
+    margin-right: 50px;
+}
+#dev{
+    color: black; margin-left: 50px; margin-top: 0;
+}
+.none{
+    display: none;
+}
