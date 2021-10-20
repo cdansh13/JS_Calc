@@ -45,7 +45,7 @@ function BgColor() {
     let element = document.getElementById("cont");
     document.getElementById("btn").className = "btn btn-outline-primary btnC";
     document.getElementById("btn1").className = "none";
-    let f = document.getElementById("btn21");
+    let f = document.getElementById("bn");
     document.getElementById("btn2").className = "btn btn-outline-primary mx-5";
     document.getElementById("btn3").className = "btn btn-outline-primary mx-5";
     document.getElementById("btn4").className = "btn btn-outline-primary mx-5";
