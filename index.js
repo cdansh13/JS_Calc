@@ -42,7 +42,7 @@ function BgColor() {
     // var element=document.getElementById("cont");
     let d = document.getElementById("fid1");
     let e = document.getElementById("fid2");
-    let element=document.getElementById("cont");
+    let element = document.getElementById("cont");
     document.getElementById("btn").className = "btn btn-outline-primary btnC";
     document.getElementById("btn1").className = "none";
     document.getElementById("btn2").className = "btn btn-outline-primary mx-5";
@@ -56,6 +56,6 @@ function BgColor() {
     c.style.color="white";
     d.style.color="white";
     e.style.color="white";
-    element.style.backgroundColor="white";
+    element.style.backgroundColor="black";
 
 }
